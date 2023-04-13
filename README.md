@@ -5,3 +5,6 @@ Description: The provided code chunk can calculate future value and present valu
 
 ## Auto_ARMA_CPI.ipynb
 Checking the stationarity of CPI dataset as an economic indicator. Removing the unit root if present and then applying auto-arima function of the Python package to the dataset to obtain the ARMA model. 
+
+## SARIMA_NPLR.ipynb
+Using the auto-arima Python package for obtaining SARIMA Model. In this model, seasonality (P, D, Q) is on the dataset for macroeconomic variable of Non-Performing loans ratio (NPLR).
